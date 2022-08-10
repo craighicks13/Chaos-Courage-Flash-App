@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:14edac81e035f02f9ad1d838d05cf5dd:6dab0350f930208c8f45b09cc85330d7:cde709370900f12288f3449eded86f07$ -->
+<TextureAtlas imagePath="atlas.png">
+    <SubTexture name="audio_1" x="970" y="159" width="51" height="42"/>
+    <SubTexture name="audio_2" x="1023" y="159" width="51" height="42"/>
+    <SubTexture name="audio_3" x="1076" y="159" width="51" height="42"/>
+    <SubTexture name="drag_1" x="1274" y="69" width="66" height="20"/>
+    <SubTexture name="drag_2" x="1274" y="91" width="66" height="20"/>
+    <SubTexture name="exit_1" x="1352" y="69" width="83" height="24"/>
+    <SubTexture name="exit_2" x="1129" y="159" width="83" height="25"/>
+    <SubTexture name="nav_base" x="2" y="2" width="1490" height="65"/>
+    <SubTexture name="node_1" x="1274" y="113" width="23" height="23"/>
+    <SubTexture name="node_2" x="1299" y="113" width="23" height="23"/>
+    <SubTexture name="node_end" x="1324" y="113" width="23" height="23"/>
+    <SubTexture name="node_off" x="1336" y="138" width="23" height="23"/>
+    <SubTexture name="play_language_down" x="970" y="69" width="302" height="43"/>
+    <SubTexture name="play_language_up" x="970" y="114" width="302" height="43"/>
+    <SubTexture name="reset_1" x="1214" y="159" width="120" height="24"/>
+    <SubTexture name="reset_2" x="1230" y="185" width="120" height="24"/>
+    <SubTexture name="status_bar" x="2" y="204" width="1226" height="10"/>
+    <SubTexture name="story_banner_01" x="2" y="69" width="482" height="133"/>
+    <SubTexture name="story_banner_02" x="486" y="69" width="482" height="133"/>
+</TextureAtlas>
